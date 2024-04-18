@@ -4,7 +4,7 @@ try:
     cod = int(input('Digite o código do produto: '))
     np = input('Digite o nome do produto: ')
     des = input('Faça uma descrição do produto: ')
-    cp = float(input('Digite o custo do produto: '))
+    cp = float(input('Digite o custo do produto (R$): '))
     cf = float(input('Digite o percentual do custo fixo/administrativo do produto (%): '))
     cv = float(input('Digite o percentual da comissão de vendas (%): '))
     imp = float(input('Digite o percentual dos impostos (%): '))
