@@ -14,5 +14,5 @@ Repositório para o Projeto Integrador I. O projeto ja se encontra finalizado e 
 - Ambiente de Desenvolvimento: Visual Studio Code 
 
 ## Conclusão
-Esta etapa do projeto foi concluída com sucesso, apresentando a funcionalidade de cadastro de produtos. Continuaremos trabalhando nas próximas partes do projeto para implementar novas funcionalidades e aprimorar o sistema de controle de estoque.
+O projeto teve 3 etapas de desenvolvimento e ja se encontra finalizado 
 
